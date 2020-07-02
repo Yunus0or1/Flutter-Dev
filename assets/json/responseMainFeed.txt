@@ -1,0 +1,70 @@
+{
+  "status": true,
+  "lastfeed": false,
+  "response": "OK",
+  "nextFromId": 50003,
+  "session": "current-12-12-20",
+  "feedType_Enum": "MAIN_FEED",
+  "error": false,
+  "feedItems" :
+  [
+      {
+         "id": 50000,
+         "viewType" : "GROUP_COURSE",
+         "courses":
+         [
+                 {
+                         "id": 900001,
+                         "courseName" : "Machine Learning",
+                         "imageUrl" : "assets/images/900001.jpg",
+                         "courseTeacherName" : "Clementon",
+                         "courseDetails" : "Machine learning is the study of computer algorithms that improve automatically through experience."
+                  },
+                 {
+                         "id": 900002,
+                         "courseName" : "Thermodynamics",
+                         "imageUrl" : "assets/images/900002.jpg",
+                         "courseTeacherName" : "Michel",
+                         "courseDetails": "Thermodynamics is a branch of physics that deals with heat and temperature, and their relation to energy."
+                  },
+                 {
+                         "id": 900003,
+                         "courseName" : "Software Design",
+                         "imageUrl" : "assets/images/900003.jpg",
+                         "courseTeacherName" : "AB Shahan",
+                         "courseDetails": "Software design is the process by which an agent creates a specification of a software artifact."
+                  }
+         ]
+     },
+      {
+         "id": 50001,
+         "viewType" : "GROUP_COURSE",
+         "courses":
+         [
+
+                 {
+                         "id": 900005,
+                         "courseName" : "Thermodynamics",
+                         "imageUrl" : "assets/images/900002.jpg",
+                         "courseTeacherName" : "Michel",
+                         "courseDetails": "Thermodynamics is a branch of physics that deals with heat and temperature, and their relation to energy."
+                  },
+                 {
+                         "id": 900006,
+                         "courseName" : "Machine Learning",
+                         "imageUrl" : "assets/images/900001.jpg",
+                         "courseTeacherName" : "Clementon",
+                         "courseDetails" : "Machine learning is the study of computer algorithms that improve automatically through experience."
+                  },
+                 {
+                         "id": 900007,
+                         "courseName" : "Software Design",
+                         "imageUrl" : "assets/images/900003.jpg",
+                         "courseTeacherName" : "AB Shahan",
+                         "courseDetails": "Software design is the process by which an agent creates a specification of a software artifact."
+                  }
+         ]
+     }
+  ]
+}
+

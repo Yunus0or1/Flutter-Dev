@@ -1,0 +1,11 @@
+{
+  "authCredential" : {
+      "userId" : 10000,
+      "domain" : "https://www.axiluniv.com",
+      "jwtToken" : "$545s1df28sddd@225cv52!25csv2xcv5xc531zxczxcweqWSASDcxvxcv0xc4&fdggasdasdasdasd",
+      "email": "student_one@axiluniv.com",
+      "jwtAlgorithm": "PBKDF2",
+      "tokenExpiredTime": "01-02-2021"
+  }
+}
+
