@@ -6,6 +6,8 @@
    - Card Design
    - Json Parsing
    - Password validation system in front-end
+   - Infinity Scroll View
+   - Auth System with JWT token
   
 2. The application is completely offline. No need to connect to the internet to fetch data. All JSON responses can be found in the ‘assets/json’ folder.
 
@@ -16,3 +18,7 @@
    - Password  : password (**Passwords are not stored in plan text**)
    
 5. If a user forgets password, password recovery system is introduced. The new password must pass all the validation tests to replace the old password.
+
+6. The APIs calls are made in MainClient.dart file which is a SingleTon class. Although all calls are made in the local system, server API calls are included for **SignIn** and **GetMainFeed** methods in comment sections to demonstrate how these can be done production environment.
+
+7.The user data structure which acts as the database of this app is designed properly to handle multiple users but the registration process is not included to make a simple application.
