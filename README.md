@@ -4,6 +4,7 @@
    - API calls
    - EventStream
    - Card Design
+   - Feed
    - Json Parsing
    - Password validation system in front-end
    - Infinity Scroll View
