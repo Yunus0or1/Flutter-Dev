@@ -21,4 +21,4 @@
 
 6. The APIs calls are made in MainClient.dart file which is a SingleTon class. Although all calls are made in the local system, server API calls are included for **SignIn** and **GetMainFeed** methods in comment sections to demonstrate how these can be done production environment.
 
-7.The user data structure which acts as the database of this app is designed properly to handle multiple users but the registration process is not included to make a simple application.
+7. The user data structure which acts as the database of this app is designed properly to handle multiple users but the registration process is not included to make a simple application.
