@@ -16,7 +16,7 @@
 
 4. The app checks for internet connection as to show how to do it. If there is an active connection, the login page will be rendered if not already logged in. There is only one user currently in the database. To pass the loginstage, a person must provide these credentials first:
    - Email     : student_one@axiluniv.com
-   - Password  : password (**Passwords are not stored in plan text**)
+   - Password  : password (**Passwords are not stored in plain text**)
    
 5. If a user forgets password, password recovery system is introduced. The new password must pass all the validation tests to replace the old password.
 
